@@ -1,9 +1,13 @@
-- 👋 Hi, I’m revanth
-- 👀 I’m interested in Machine learning, Deep learning, computer vision, NLP and GAN.
-- 🌱 I’m currently learning all those mentioned above.
-- 💞️ I’m looking to collaborate on real time AI projects.
+👋 Hi, I'm Revanth - Full Stack Data Scientist & AI Engineer based in Paris
+---
+🤖 I build end-to-end data solutions - from pipelines and ML models to AI agents and automation
 
-<!---
-revanthpuvanes/revanthpuvanes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎙️ Latest: TalkToData - voice analytics agent using Google ADK + Whisper + Mistral AI
+
+🔧 Stack: Python · Mistral AI · LangChain · Google ADK · n8n · Docker · MLOps · SQL · Tableau
+
+🎓 MSc Computer Science @ EPITA Paris (2026)
+
+🌍 Open to stage PFE in AI engineering, data science, or automation
+---
+📬 revanthpuvanes@gmail.com
