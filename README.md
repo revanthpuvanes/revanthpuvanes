@@ -1,21 +1,25 @@
+
 # 👋 Hi, I'm Revanth
 
-**MSc Computer Science student at EPITA Paris, building AI agents and data pipelines.**
+**MSc Computer Science student at EPITA Paris, building AI agents and data pipelines.**  
 Looking for a **PFE internship** in **AI agent engineering** or **data engineering**.
 
 ## 🚀 Featured projects
 
-**[EU AI Act Agentic RAG](https://github.com/revanthpuvanes/eu-ai-act-agentic-rag)** · [Live demo](https://eu-ai-act-agentic-rag.vercel.app/)
+**[🏙️ Living AI Town](https://github.com/revanthpuvanes/living-ai-town)** · [Live simulation](https://living-ai-town.vercel.app/)  
+Persistent multi-agent simulation featuring Mistral-powered character conversations, deterministic world ticks, and an event-sourced PostgreSQL backend. Built with FastAPI, Next.js, and Phaser, with exact state replay, idempotent execution, crash recovery, and on-demand simulation controls. Deployed on GCP + Vercel.
+
+**[EU AI Act Agentic RAG](https://github.com/revanthpuvanes/eu-ai-act-agentic-rag)** · [Live demo](https://eu-ai-act-agentic-rag.vercel.app/)  
 Four RAG architectures (naive, expanded, deterministic LangGraph, LLM-driven LangGraph) compared on a 40-question held-out benchmark, with bootstrap confidence intervals. Finding: most of the citation gain came from expanding article context, not from agent routing.
 
-**[Vélib' Pulse](https://github.com/revanthpuvanes/velib-pulse)** · [Live dashboard](https://velib-pulse-gamma.vercel.app/)
+**[Vélib' Pulse](https://github.com/revanthpuvanes/velib-pulse)** · [Live dashboard](https://velib-pulse-gamma.vercel.app/)  
 Near-real-time pipeline on Paris bike-sharing data: Python → Redpanda → DuckDB/Parquet → dbt → private GCS → Next.js dashboard. Runs on a GCP VM, polling ~1,500 stations every 5 minutes.
 
 ## 🔧 Stack
 
-**Agents & LLMs:** Python · LangGraph · LangChain · Mistral AI · Langfuse
-**Data engineering:** SQL · dbt · DuckDB · Parquet · Redpanda/Kafka · Airflow
-**Cloud & tooling:** GCP · Docker · FastAPI · Next.js · Git
+**Agents & LLMs:** Python · LangGraph · LangChain · Mistral AI · Langfuse  
+**Data engineering:** SQL · dbt · DuckDB · Parquet · Redpanda/Kafka · Airflow  
+**Cloud & tooling:** GCP · Docker · FastAPI · PostgreSQL · Next.js · Phaser · Git
 
 ## 💼 Background
 
