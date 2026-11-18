@@ -6,7 +6,7 @@ Looking for a **PFE internship** in **AI agent engineering** or **data engineeri
 
 ## 🚀 Featured projects
 
-**[🏙️ Living AI Town](https://github.com/revanthpuvanes/living-ai-town)** · [Live simulation](https://living-ai-town.vercel.app/)  
+**[Living AI Town](https://github.com/revanthpuvanes/living-ai-town)** · [Live simulation](https://living-ai-town.vercel.app/)  
 Persistent multi-agent simulation featuring Mistral-powered character conversations, deterministic world ticks, and an event-sourced PostgreSQL backend. Built with FastAPI, Next.js, and Phaser, with exact state replay, idempotent execution, crash recovery, and on-demand simulation controls. Deployed on GCP + Vercel.
 
 **[EU AI Act Agentic RAG](https://github.com/revanthpuvanes/eu-ai-act-agentic-rag)** · [Live demo](https://eu-ai-act-agentic-rag.vercel.app/)  
